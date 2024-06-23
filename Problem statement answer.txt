@@ -1,5 +1,0 @@
-Problem statement answer
-
-1. The major time slots with higher demand are from 5 AM to 9 AM in the morning and from 5 PM to 9 PM in the evening.
-2. In the morning and evening slots, we see a high demand surge, which can be a major factor leading to cancellations or unavailability of cars.
-3. Supply is highest in the morning, while demand is highest in the evening. Overall, a significant gap is observed between supply and demand in the evening slot from 5 PM to 9 PM.
