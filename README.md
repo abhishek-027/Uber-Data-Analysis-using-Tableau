@@ -5,5 +5,5 @@ This repository contains a comprehensive analysis of Uber ride data utilizing Ta
 Project Overview:
 
 * Objective: Analyze Uber ride data to derive actionable insights.
-*Tools Used: Tableau for data visualization and analysis.
-*Data: Uber ride data, including timestamps, locations, ride durations, and more.
+* Tools Used: Tableau for data visualization and analysis.
+* Data: Uber ride data, including timestamps, locations, ride durations, and more.
